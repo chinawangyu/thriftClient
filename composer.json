@@ -8,10 +8,5 @@
         }
     ],
     "require": {},
-   "minimum-stability": "dev",
-    "autoload": {
-      "psr-4": {
-        "thriftClient\\": "./"
-     }
-   }
+   "minimum-stability": "dev"
 }
